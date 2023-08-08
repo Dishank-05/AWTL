@@ -1,0 +1,15 @@
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_1_student\prac3_1_student\bin\Debug\net6.0\prac3_1_student.exe
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_1_student\prac3_1_student\bin\Debug\net6.0\prac3_1_student.deps.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_1_student\prac3_1_student\bin\Debug\net6.0\prac3_1_student.runtimeconfig.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_1_student\prac3_1_student\bin\Debug\net6.0\prac3_1_student.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_1_student\prac3_1_student\bin\Debug\net6.0\prac3_1_student.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_1_student\prac3_1_student\obj\Debug\net6.0\prac3_1_student.csproj.AssemblyReference.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_1_student\prac3_1_student\obj\Debug\net6.0\prac3_1_student.GeneratedMSBuildEditorConfig.editorconfig
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_1_student\prac3_1_student\obj\Debug\net6.0\prac3_1_student.AssemblyInfoInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_1_student\prac3_1_student\obj\Debug\net6.0\prac3_1_student.AssemblyInfo.cs
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_1_student\prac3_1_student\obj\Debug\net6.0\prac3_1_student.csproj.CoreCompileInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_1_student\prac3_1_student\obj\Debug\net6.0\prac3_1_student.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_1_student\prac3_1_student\obj\Debug\net6.0\refint\prac3_1_student.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_1_student\prac3_1_student\obj\Debug\net6.0\prac3_1_student.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_1_student\prac3_1_student\obj\Debug\net6.0\prac3_1_student.genruntimeconfig.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_1_student\prac3_1_student\obj\Debug\net6.0\ref\prac3_1_student.dll

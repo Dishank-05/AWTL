@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_8\Prac8_2_HIDDEN_FIELDS\Prac8_2_HIDDEN_FIELDS\obj\Debug\Prac8_2_HIDDEN_FIELDS.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_8\Prac8_2_HIDDEN_FIELDS\Prac8_2_HIDDEN_FIELDS\bin\Prac8_2_HIDDEN_FIELDS.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_8\Prac8_2_HIDDEN_FIELDS\Prac8_2_HIDDEN_FIELDS\bin\Prac8_2_HIDDEN_FIELDS.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_8\Prac8_2_HIDDEN_FIELDS\Prac8_2_HIDDEN_FIELDS\obj\Debug\Prac8_2_HIDDEN_FIELDS.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_8\Prac8_2_HIDDEN_FIELDS\Prac8_2_HIDDEN_FIELDS\obj\Debug\Prac8_2_HIDDEN_FIELDS.pdb

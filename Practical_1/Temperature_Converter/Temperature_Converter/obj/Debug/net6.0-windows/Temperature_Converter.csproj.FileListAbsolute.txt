@@ -1,0 +1,17 @@
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\bin\Debug\net6.0-windows\Temperature_Converter.exe
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\bin\Debug\net6.0-windows\Temperature_Converter.deps.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\bin\Debug\net6.0-windows\Temperature_Converter.runtimeconfig.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\bin\Debug\net6.0-windows\Temperature_Converter.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\bin\Debug\net6.0-windows\Temperature_Converter.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\obj\Debug\net6.0-windows\Temperature_Converter.csproj.AssemblyReference.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\obj\Debug\net6.0-windows\Temperature_Converter.Form1.resources
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\obj\Debug\net6.0-windows\Temperature_Converter.csproj.GenerateResource.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\obj\Debug\net6.0-windows\Temperature_Converter.GeneratedMSBuildEditorConfig.editorconfig
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\obj\Debug\net6.0-windows\Temperature_Converter.AssemblyInfoInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\obj\Debug\net6.0-windows\Temperature_Converter.AssemblyInfo.cs
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\obj\Debug\net6.0-windows\Temperature_Converter.csproj.CoreCompileInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\obj\Debug\net6.0-windows\Temperature_Converter.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\obj\Debug\net6.0-windows\refint\Temperature_Converter.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\obj\Debug\net6.0-windows\Temperature_Converter.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\obj\Debug\net6.0-windows\Temperature_Converter.genruntimeconfig.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Temperature_Converter\Temperature_Converter\obj\Debug\net6.0-windows\ref\Temperature_Converter.dll

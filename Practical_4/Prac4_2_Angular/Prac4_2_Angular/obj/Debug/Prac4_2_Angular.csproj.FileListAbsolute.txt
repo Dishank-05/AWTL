@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_4\Prac4_2_Angular\Prac4_2_Angular\bin\Prac4_2_Angular.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_4\Prac4_2_Angular\Prac4_2_Angular\bin\Prac4_2_Angular.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_4\Prac4_2_Angular\Prac4_2_Angular\obj\Debug\Prac4_2_Angular.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_4\Prac4_2_Angular\Prac4_2_Angular\obj\Debug\Prac4_2_Angular.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_4\Prac4_2_Angular\Prac4_2_Angular\obj\Debug\Prac4_2_Angular.pdb

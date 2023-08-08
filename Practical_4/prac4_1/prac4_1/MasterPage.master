@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="prac4_1.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table style="font-family:Arial">
+    <tr>
+        <td colspan="2" style="width:800px; height:80px; background-color:#F79E02; 
+            text-align:center">
+            <h1>
+                VIVEKANAND INSTITUTE OF TECHNOLOGY.
+                     "WELCOME TO TECHSTORM"
+            </h1>
+        </td>
+    </tr>
+    <tr>
+        <td style="height:500px; background-color:#0074E1; width:150px">
+            <h3>Menu</h3>
+            <li><a href="Home.aspx">HOME</a></li>
+            <li><a href="Registration.aspx">REGISTRATION</a></li>
+        </td>
+        <td style="height:500px; background-color:#10E7DC; width:650px">
+            <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color:#3399FF; text-align:center">
+            <b>Website:<a href="//ves.ac.in/">VESIT COLLEGE</a> &nbsp&nbsp&nbsp Contact us: 8828287471 </b>
+            
+        </td>
+    </tr>
+</table>
+    </form>
+</body>
+</html>
+
+
+ 

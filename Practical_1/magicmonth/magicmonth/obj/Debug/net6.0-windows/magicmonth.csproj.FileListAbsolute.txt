@@ -1,0 +1,17 @@
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\bin\Debug\net6.0-windows\magicmonth.exe
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\bin\Debug\net6.0-windows\magicmonth.deps.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\bin\Debug\net6.0-windows\magicmonth.runtimeconfig.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\bin\Debug\net6.0-windows\magicmonth.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\bin\Debug\net6.0-windows\magicmonth.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\obj\Debug\net6.0-windows\magicmonth.csproj.AssemblyReference.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\obj\Debug\net6.0-windows\magicmonth.Form1.resources
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\obj\Debug\net6.0-windows\magicmonth.csproj.GenerateResource.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\obj\Debug\net6.0-windows\magicmonth.GeneratedMSBuildEditorConfig.editorconfig
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\obj\Debug\net6.0-windows\magicmonth.AssemblyInfoInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\obj\Debug\net6.0-windows\magicmonth.AssemblyInfo.cs
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\obj\Debug\net6.0-windows\magicmonth.csproj.CoreCompileInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\obj\Debug\net6.0-windows\magicmonth.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\obj\Debug\net6.0-windows\refint\magicmonth.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\obj\Debug\net6.0-windows\magicmonth.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\obj\Debug\net6.0-windows\magicmonth.genruntimeconfig.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\magicmonth\magicmonth\obj\Debug\net6.0-windows\ref\magicmonth.dll

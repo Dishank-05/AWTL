@@ -1,0 +1,4 @@
+c:\users\hp\documents\visual studio 2010\Projects\prac9_1\prac9_1\bin\prac9_1.dll
+c:\users\hp\documents\visual studio 2010\Projects\prac9_1\prac9_1\bin\prac9_1.pdb
+c:\users\hp\documents\visual studio 2010\Projects\prac9_1\prac9_1\obj\Debug\prac9_1.dll
+c:\users\hp\documents\visual studio 2010\Projects\prac9_1\prac9_1\obj\Debug\prac9_1.pdb

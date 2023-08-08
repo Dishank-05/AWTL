@@ -1,0 +1,15 @@
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\Prac_3_2_Grad\Prac_3_2_Grad\bin\Debug\net6.0\Prac_3_2_Grad.exe
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\Prac_3_2_Grad\Prac_3_2_Grad\bin\Debug\net6.0\Prac_3_2_Grad.deps.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\Prac_3_2_Grad\Prac_3_2_Grad\bin\Debug\net6.0\Prac_3_2_Grad.runtimeconfig.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\Prac_3_2_Grad\Prac_3_2_Grad\bin\Debug\net6.0\Prac_3_2_Grad.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\Prac_3_2_Grad\Prac_3_2_Grad\bin\Debug\net6.0\Prac_3_2_Grad.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\Prac_3_2_Grad\Prac_3_2_Grad\obj\Debug\net6.0\Prac_3_2_Grad.csproj.AssemblyReference.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\Prac_3_2_Grad\Prac_3_2_Grad\obj\Debug\net6.0\Prac_3_2_Grad.GeneratedMSBuildEditorConfig.editorconfig
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\Prac_3_2_Grad\Prac_3_2_Grad\obj\Debug\net6.0\Prac_3_2_Grad.AssemblyInfoInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\Prac_3_2_Grad\Prac_3_2_Grad\obj\Debug\net6.0\Prac_3_2_Grad.AssemblyInfo.cs
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\Prac_3_2_Grad\Prac_3_2_Grad\obj\Debug\net6.0\Prac_3_2_Grad.csproj.CoreCompileInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\Prac_3_2_Grad\Prac_3_2_Grad\obj\Debug\net6.0\Prac_3_2_Grad.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\Prac_3_2_Grad\Prac_3_2_Grad\obj\Debug\net6.0\refint\Prac_3_2_Grad.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\Prac_3_2_Grad\Prac_3_2_Grad\obj\Debug\net6.0\Prac_3_2_Grad.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\Prac_3_2_Grad\Prac_3_2_Grad\obj\Debug\net6.0\Prac_3_2_Grad.genruntimeconfig.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\Prac_3_2_Grad\Prac_3_2_Grad\obj\Debug\net6.0\ref\Prac_3_2_Grad.dll

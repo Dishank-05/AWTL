@@ -1,0 +1,17 @@
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\bin\Debug\net6.0-windows\Age_Calculator.exe
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\bin\Debug\net6.0-windows\Age_Calculator.deps.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\bin\Debug\net6.0-windows\Age_Calculator.runtimeconfig.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\bin\Debug\net6.0-windows\Age_Calculator.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\bin\Debug\net6.0-windows\Age_Calculator.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\obj\Debug\net6.0-windows\Age_Calculator.csproj.AssemblyReference.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\obj\Debug\net6.0-windows\Age_Calculator.Form1.resources
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\obj\Debug\net6.0-windows\Age_Calculator.csproj.GenerateResource.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\obj\Debug\net6.0-windows\Age_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\obj\Debug\net6.0-windows\Age_Calculator.AssemblyInfoInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\obj\Debug\net6.0-windows\Age_Calculator.AssemblyInfo.cs
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\obj\Debug\net6.0-windows\Age_Calculator.csproj.CoreCompileInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\obj\Debug\net6.0-windows\Age_Calculator.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\obj\Debug\net6.0-windows\refint\Age_Calculator.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\obj\Debug\net6.0-windows\Age_Calculator.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\obj\Debug\net6.0-windows\Age_Calculator.genruntimeconfig.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\Age_Calculator\Age_Calculator\obj\Debug\net6.0-windows\ref\Age_Calculator.dll

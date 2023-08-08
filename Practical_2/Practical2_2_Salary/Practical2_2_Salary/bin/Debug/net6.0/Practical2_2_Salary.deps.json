@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Practical2_2_Salary/1.0.0": {
+        "runtime": {
+          "Practical2_2_Salary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practical2_2_Salary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

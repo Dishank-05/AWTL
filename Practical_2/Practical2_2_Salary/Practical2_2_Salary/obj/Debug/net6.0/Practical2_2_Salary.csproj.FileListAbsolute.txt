@@ -1,0 +1,15 @@
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_2\Practical2_2_Salary\Practical2_2_Salary\bin\Debug\net6.0\Practical2_2_Salary.exe
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_2\Practical2_2_Salary\Practical2_2_Salary\bin\Debug\net6.0\Practical2_2_Salary.deps.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_2\Practical2_2_Salary\Practical2_2_Salary\bin\Debug\net6.0\Practical2_2_Salary.runtimeconfig.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_2\Practical2_2_Salary\Practical2_2_Salary\bin\Debug\net6.0\Practical2_2_Salary.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_2\Practical2_2_Salary\Practical2_2_Salary\bin\Debug\net6.0\Practical2_2_Salary.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_2\Practical2_2_Salary\Practical2_2_Salary\obj\Debug\net6.0\Practical2_2_Salary.csproj.AssemblyReference.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_2\Practical2_2_Salary\Practical2_2_Salary\obj\Debug\net6.0\Practical2_2_Salary.GeneratedMSBuildEditorConfig.editorconfig
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_2\Practical2_2_Salary\Practical2_2_Salary\obj\Debug\net6.0\Practical2_2_Salary.AssemblyInfoInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_2\Practical2_2_Salary\Practical2_2_Salary\obj\Debug\net6.0\Practical2_2_Salary.AssemblyInfo.cs
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_2\Practical2_2_Salary\Practical2_2_Salary\obj\Debug\net6.0\Practical2_2_Salary.csproj.CoreCompileInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_2\Practical2_2_Salary\Practical2_2_Salary\obj\Debug\net6.0\Practical2_2_Salary.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_2\Practical2_2_Salary\Practical2_2_Salary\obj\Debug\net6.0\refint\Practical2_2_Salary.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_2\Practical2_2_Salary\Practical2_2_Salary\obj\Debug\net6.0\Practical2_2_Salary.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_2\Practical2_2_Salary\Practical2_2_Salary\obj\Debug\net6.0\Practical2_2_Salary.genruntimeconfig.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_2\Practical2_2_Salary\Practical2_2_Salary\obj\Debug\net6.0\ref\Practical2_2_Salary.dll

@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_7\Prac7_2_WindowsForm\Prac7_2_WindowsForm\bin\Debug\Prac7_2_WindowsForm.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_7\Prac7_2_WindowsForm\Prac7_2_WindowsForm\bin\Debug\Prac7_2_WindowsForm.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_7\Prac7_2_WindowsForm\Prac7_2_WindowsForm\bin\Debug\Prac7_2_WindowsForm.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_7\Prac7_2_WindowsForm\Prac7_2_WindowsForm\obj\Debug\Prac7_2_WindowsForm.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_7\Prac7_2_WindowsForm\Prac7_2_WindowsForm\obj\Debug\Prac7_2_WindowsForm.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_7\Prac7_2_WindowsForm\Prac7_2_WindowsForm\obj\Debug\Prac7_2_WindowsForm.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_7\Prac7_2_WindowsForm\Prac7_2_WindowsForm\obj\Debug\Prac7_2_WindowsForm.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_7\Prac7_2_WindowsForm\Prac7_2_WindowsForm\obj\Debug\Prac7_2_WindowsForm.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_7\Prac7_2_WindowsForm\Prac7_2_WindowsForm\obj\Debug\Prac7_2_WindowsForm.csprojResolveAssemblyReference.cache

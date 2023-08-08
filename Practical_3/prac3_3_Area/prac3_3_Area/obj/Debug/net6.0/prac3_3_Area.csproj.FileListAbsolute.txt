@@ -1,0 +1,17 @@
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\bin\Debug\net6.0\prac3_3_Area.exe
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\bin\Debug\net6.0\prac3_3_Area.deps.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\bin\Debug\net6.0\prac3_3_Area.runtimeconfig.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\bin\Debug\net6.0\prac3_3_Area.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\bin\Debug\net6.0\prac3_3_Area.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\bin\Debug\net6.0\Baseline.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\obj\Debug\net6.0\prac3_3_Area.csproj.AssemblyReference.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\obj\Debug\net6.0\prac3_3_Area.GeneratedMSBuildEditorConfig.editorconfig
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\obj\Debug\net6.0\prac3_3_Area.AssemblyInfoInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\obj\Debug\net6.0\prac3_3_Area.AssemblyInfo.cs
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\obj\Debug\net6.0\prac3_3_Area.csproj.CoreCompileInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\obj\Debug\net6.0\prac3_3_Area.csproj.CopyComplete
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\obj\Debug\net6.0\prac3_3_Area.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\obj\Debug\net6.0\refint\prac3_3_Area.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\obj\Debug\net6.0\prac3_3_Area.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\obj\Debug\net6.0\prac3_3_Area.genruntimeconfig.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_3\prac3_3_Area\prac3_3_Area\obj\Debug\net6.0\ref\prac3_3_Area.dll

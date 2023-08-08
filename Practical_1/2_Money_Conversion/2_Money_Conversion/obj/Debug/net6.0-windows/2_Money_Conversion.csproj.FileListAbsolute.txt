@@ -1,0 +1,17 @@
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\bin\Debug\net6.0-windows\2_Money_Conversion.exe
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\bin\Debug\net6.0-windows\2_Money_Conversion.deps.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\bin\Debug\net6.0-windows\2_Money_Conversion.runtimeconfig.json
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\bin\Debug\net6.0-windows\2_Money_Conversion.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\bin\Debug\net6.0-windows\2_Money_Conversion.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\obj\Debug\net6.0-windows\2_Money_Conversion.csproj.AssemblyReference.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\obj\Debug\net6.0-windows\_2_Money_Conversion.Form1.resources
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\obj\Debug\net6.0-windows\2_Money_Conversion.csproj.GenerateResource.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\obj\Debug\net6.0-windows\2_Money_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\obj\Debug\net6.0-windows\2_Money_Conversion.AssemblyInfoInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\obj\Debug\net6.0-windows\2_Money_Conversion.AssemblyInfo.cs
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\obj\Debug\net6.0-windows\2_Money_Conversion.csproj.CoreCompileInputs.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\obj\Debug\net6.0-windows\2_Money_Conversion.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\obj\Debug\net6.0-windows\refint\2_Money_Conversion.dll
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\obj\Debug\net6.0-windows\2_Money_Conversion.pdb
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\obj\Debug\net6.0-windows\2_Money_Conversion.genruntimeconfig.cache
+E:\RUSHIKESH_MCA_SEM_2\AWTL_VS_PRACTICALS\Practical_1\2_Money_Conversion\2_Money_Conversion\obj\Debug\net6.0-windows\ref\2_Money_Conversion.dll

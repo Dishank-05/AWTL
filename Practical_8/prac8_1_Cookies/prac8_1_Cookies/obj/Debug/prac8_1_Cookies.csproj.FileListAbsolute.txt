@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_8\prac8_1_Cookies\prac8_1_Cookies\bin\prac8_1_Cookies.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_8\prac8_1_Cookies\prac8_1_Cookies\bin\prac8_1_Cookies.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_8\prac8_1_Cookies\prac8_1_Cookies\obj\Debug\prac8_1_Cookies.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_8\prac8_1_Cookies\prac8_1_Cookies\obj\Debug\prac8_1_Cookies.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_8\prac8_1_Cookies\prac8_1_Cookies\obj\Debug\prac8_1_Cookies.pdb

@@ -1,0 +1,4 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_7\prac7_web\prac7_web\bin\prac7_web.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_7\prac7_web\prac7_web\bin\prac7_web.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_7\prac7_web\prac7_web\obj\Debug\prac7_web.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Practical_7\prac7_web\prac7_web\obj\Debug\prac7_web.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iyFhV9/QINXtfvDQsiRpmH2f3i853AkaJjClKdVD6ah9PlNJIFoCUGfPoL9OuftaHP0yo3FkAQ4mdB1YkTtPHA==",
+  "success": true,
+  "projectFilePath": "E:\\RUSHIKESH_MCA_SEM_2\\AWTL_VS_PRACTICALS\\Practical_3\\prac3_3_Area\\prac3_3_Area\\prac3_3_Area.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\baseline\\4.1.0\\baseline.4.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\imtools\\4.0.0\\imtools.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
